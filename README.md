@@ -4,7 +4,7 @@ Lorem Dicksum is a jquery plugin that allows you to generate filthy filler conte
 
 To get started, include loremDicksum.js in the footer of your page:
 
-```<script src="https://gopperman.github.io/loremDicksum/js/loremDicksum.js"></script>```
+```<script src="https://gopperman.github.io/loremDicksum/js/loremDicksum.min.js"></script>```
 
 loremDicksum.js will automatically fill in any element that has the 'dicksum' class:
 
