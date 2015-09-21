@@ -7,5 +7,6 @@ $( document ).ready(function (){
 		}
 		$( '#example' ).empty().append( markup );
 		$( '.example-dicksum').loremDicksum();
+		$( this ).loremDicksum();
 	} );
 } );
