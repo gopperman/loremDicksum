@@ -223,6 +223,16 @@
     	'quickie',
     	'ass play',
     	'diddle',
+        'bondage',
+        'rad chillies',
+        'muff diver',
+        'skinflute',
+        'cervical',
+        'hot pocket',
+        'bearded clam',
+        'fun tunnel',
+        'cameltoe',
+        'pork sword',
     ];
 
 	$( '.dicksum' ).loremDicksum();
