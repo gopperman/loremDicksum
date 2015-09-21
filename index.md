@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Lorem Dicksum is a jquery plugin that allows you to generate filthy filler content for your development site. (NSFW, Obviously).
+Lorem Dicksum is a jquery plugin that allows you to generate filthy filler content for your development site. (NSFW, Obviously)
 
 ## Let's get dirty
 
 To get started, include loremDicksum.js in the footer of your page:
 
-```<script src="loremDicksum.js"></script>```
+```<script src="https://gopperman.github.io/loremDicksum/js/loremDicksum.js"></script>```
 
 loremDicksum.js will automatically fill in any element that has the 'dicksum' class:
 
